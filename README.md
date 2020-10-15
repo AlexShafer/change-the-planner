@@ -8,7 +8,7 @@ change-the-planner is a simple day planning application utilizing moment.js and 
 
 ## Screenshot
 
-![image](Screenshot.jpeg)
+![image](/Screenshot.jpeg)
 
 ## Table of Contents
 
