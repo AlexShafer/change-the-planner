@@ -9,7 +9,7 @@ change-the-planner is a simple day planning application utilizing moment.js and 
 ## Screenshot
 
 ![Screenshot](Screenshot.jpeg)
-Format: ![Alt Text](url)
+
 
 ## Table of Contents
 
